@@ -1,9 +1,11 @@
 class School
 
-end
+roster = []
 
-def initialize=(school)
+ def initialize=(school)
   @school = school
+ end
+
 end
 
 
@@ -17,3 +19,7 @@ end
 
 
 
+
+
+school = School.new
+school.roster
