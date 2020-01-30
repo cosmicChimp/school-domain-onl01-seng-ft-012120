@@ -16,5 +16,5 @@ end
 
 
 
-school = School.new("Bayside Highschool")
+school = School.new
 school.roster
