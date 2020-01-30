@@ -16,4 +16,4 @@ end
 
 
 
-school = School.new
+
