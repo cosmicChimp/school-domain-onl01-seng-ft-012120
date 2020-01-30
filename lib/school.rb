@@ -17,4 +17,3 @@ end
 
 
 school = School.new
-school.roster
